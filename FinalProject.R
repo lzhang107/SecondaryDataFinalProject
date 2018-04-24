@@ -184,3 +184,4 @@ lm(formula = SouthKorea$Manufacturing ~ SouthKorea$GDPPC + SouthKorea$`Infant Mo
 # aka Manufacuting = 26.35 + 2.919*10^-12*GDPPC - 2.948*10^-2*InfantMortality
 
 # test of significance: linearity tested by correlatoin, regression, multiple regression
+# nice code!
